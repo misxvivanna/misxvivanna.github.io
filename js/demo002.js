@@ -182,6 +182,47 @@ sr.reveal('.diaBautizo', {
 		
 
 	});
+	sr.reveal('.porqueformas', {
+		duration: 2000, //tiempo
+		//delay:100,
+		origin: 'bottom', //origen
+		distance: '200px', //distancia
+		
+
+	});
+	sr.reveal('.respetuosamente', {
+		duration: 2000, //tiempo
+		//delay:100,
+		origin: 'bottom', //origen
+		distance: '200px', //distancia
+		
+
+	});
+	sr.reveal('.btnComoLlegar', {
+		duration: 2000, //tiempo
+		//delay:100,
+		origin: 'bottom', //origen
+		distance: '200px', //distancia
+		
+
+	});
+	sr.reveal('.ic', {
+		duration: 1000, //tiempo
+		///delay:1000,
+		origin: 'top', //origen
+		scale: 0.10,
+		distance: '-0' //distancia
+		
+
+	});
+	sr.reveal('.tespero', {
+		duration: 2000, //tiempo
+		//delay:100,
+		origin: 'bottom', //origen
+		distance: '200px', //distancia
+		
+
+	});
 	sr.reveal('.vestimenta', {
 		duration: 1500, //tiempo
 		///delay:1000,
