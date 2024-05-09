@@ -245,6 +245,16 @@ sr.reveal('.diaBautizo', {
 
 
 	}); 
+
+				sr.reveal('.btnWhatsNovios', {
+		duration: 1500, //tiempo
+		delay:1000,
+		origin: 'left', //origen
+		distance: '100px' //distancia
+
+
+	}); 
+
 sr.reveal('.nosCasamos', {
 		duration: 1500, //tiempo
 		//delay:1500,
